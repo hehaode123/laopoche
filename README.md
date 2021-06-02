@@ -4,9 +4,6 @@
 
 
 
-# 任务框架
-
-![任务框架](projectInformation\taskFramework.png)
 
 ## 人员分配
 ### 前端-网页设计
